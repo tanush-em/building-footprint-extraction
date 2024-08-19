@@ -1,0 +1,2 @@
+		**Do not delete this folder**
+This folder will act as a central storage for all the files processed using the Building Footprint Extraction System.
