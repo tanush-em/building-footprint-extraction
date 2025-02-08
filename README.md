@@ -1,5 +1,7 @@
 # Building Footprint Extraction  
 
+**This is a proprietary project and any suspection of copying of IP wil lead to legal consequences.**
+
 ## Overview  
 
 This application automates the extraction of building footprints from raster images using deep learning and geospatial processing techniques. The tool provides a streamlined workflow for users to:  
